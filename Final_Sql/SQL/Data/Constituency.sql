@@ -1,0 +1,15 @@
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Mitchell', 3, 'Xinji', 5);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Mockingbird', 6, 'Batubantar', 3);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Colorado', 1, 'Wongsorejo', 1);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Clyde Gallagher', 9, 'Glogovac', 2);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Carpenter', 2, 'Hanban', 2);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Oak', 2, 'Arnhem', 1);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Ronald Regan', 6, 'Krzczonów', 5);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Goodland', 10, 'Jingzhou', 2);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Walton', 2, 'Palmira', 5);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Clarendon', 10, 'Gazanjyk', 5);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('North', 7, 'Povorino', 4);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Cordelia', 10, 'Shuangqiao', 3);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Springs', 3, 'Sztum', 2);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Delaware', 2, 'Xingyuan', 5);
+insert into Constituency (C_Name, P_ID, Center, Elected_no) values ('Ridgeway', 8, 'Sorokino', 5);
